@@ -1,4 +1,4 @@
-package me.systemoutprintln.SpringBootWeb;
+package me.systemoutprintln;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
